@@ -1,2 +1,2 @@
 # Calculator
-making calculator with using java swing library 
+This is a simple calculator application built with Java Swing. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is designed with buttons for digits (0-9), arithmetic operations, an equal button to display the result, and a clear button to reset the input. The program uses JFrame for the main window, JTextField for displaying input/output, and JButton for the interactive buttons. It demonstrates the use of event handling in Java Swing for performing calculations. 
